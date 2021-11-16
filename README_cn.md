@@ -14,7 +14,7 @@ nanoESP32-S3 是MuseLab基于乐鑫ESP32-S3-WROOM-1-N8模组推出的开发板�
 
   
 <div align=center>
-<img src="https://github.com/wuxx/nanoESP32-S3/blob/master/doc/nanoESP32-S3-1.jpg" width = "500" alt="" align=center />
+<img src="https://github.com/wuxx/nanoESP32-S3/blob/master/doc/nanoESP32-S3-1.jpg" width = "4000" alt="" align=center />
 </div>
 
 # 模组规格 

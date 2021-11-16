@@ -13,7 +13,7 @@ nanoESP32-S3
 nanoESP32-S3 is ESP32-S3 dev board made by MuseLab, base on ESP32-S3-WROOM-1-N8 manufactured by Expressif, with on-board usb-to-serial, TYPE-C, RGB LED,  the on-board programmer ESPLink (based on DAPLink) support usb-to-serial (compatible with traditional use), drag-n-drop program, and jtag debug, made it convenient for development and test.  
 
 <div align=center>
-<img src="https://github.com/wuxx/nanoESP32-S3/blob/master/doc/nanoESP32-S3-1.jpg" width = "500" alt="" align=center />
+<img src="https://github.com/wuxx/nanoESP32-S3/blob/master/doc/nanoESP32-S3-1.jpg" width = "4000" alt="" align=center />
 </div>
 
 # Module Specifications 
