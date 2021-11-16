@@ -10,7 +10,7 @@ nanoESP32-S3
 
 
 # nanoESP32-S3介绍
-nanoESP32-S3 是MuseLab基于乐鑫ESP32-S3-WROOM-1-N8模组推出的开发板，板载USB转串口，TYPE-C、全彩LED，引脚兼容官方开发板，板载的下载器支持拖拽烧录和jtag调试，方便客户进行快速的原型验证及开发。  
+nanoESP32-S3 是MuseLab基于乐鑫ESP32-S3-WROOM-1-N8模组推出的开发板，板载USB转串口，TYPE-C、全彩LED，板载的下载器支持USB CDC串口，拖拽烧录和jtag调试，方便客户进行快速的原型验证及开发。  
 
   
 <div align=center>
