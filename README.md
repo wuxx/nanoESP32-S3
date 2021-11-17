@@ -71,6 +71,7 @@ the ESPLink support drag-n-drop program, after power on the board, a virtual USB
 note: the flash image is a splicing of three files (bootloader.bin/partition-table.bin/app.bin), just expand the `bootloader.bin` to size 0x8000, expand the `partition-table.bin` to size 0x10000, and concatenate these three files, use the script `esppad.sh` under tools directory to make it, example for reference:    
 ```
 $./tools/esppad.sh bootloader.bin partition-table.bin app.bin flash_image.bin
+$cp flash_image.bin /media/pi/ESPLink/
 ```
 
 

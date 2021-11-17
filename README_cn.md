@@ -74,6 +74,7 @@ $esptool.py --chip esp32s3 \
 注意：flash镜像文件为三个文件(bootloader.bin/partition-table.bin/app.bin)拼接而成，需要将`bootloader.bin`填充至0x8000，`partition-table.bin`填充至0x10000，然后将三个文件直接合并。tools目录下提供了一个脚本以供使用，举例如下：
 ```
 $./tools/esppad.sh bootloader.bin partition-table.bin app.bin flash_image.bin
+$cp flash_image.bin /media/pi/ESPLink/
 ```
 
 ## JTAG Debug
