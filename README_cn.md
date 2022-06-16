@@ -152,9 +152,9 @@ $telnet localhost 4444
 >reg pc
 >resume
 ```
-```
+
 # 产品链接
-[nanoESP32-S3 Board]()
+[nanoESP32-S3 Board](https://item.taobao.com/item.htm?spm=a1z10.5-c.w4002-21349689069.15.193648aeXUqk0S&id=660918690824)
 
 # 参考
 ### esp-idf

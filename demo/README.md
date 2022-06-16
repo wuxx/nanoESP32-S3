@@ -14,3 +14,6 @@ flash command line: esptool.py --chip esp32s3 -p /dev/ttyACM0 -b 460800 --before
 - extboard_face_recognition.bin
 esp-who/examples/human_face_detection/terminal
 use the esp32-s3 native USB CDC to check the log output.  
+
+- extboard_pmod_lcd_ili9341.bin
+/home/pi/oss/esp-idf/examples/peripherals/spi_master/lcd
