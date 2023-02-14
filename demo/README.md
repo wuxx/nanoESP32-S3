@@ -16,4 +16,4 @@ esp-who/examples/human_face_detection/terminal
 use the esp32-s3 native USB CDC to check the log output.  
 
 - extboard_pmod_lcd_v1.1_ili9341.bin & extboard_pmod_lcd_v1.2_ili9341.bin  
-/home/pi/oss/esp-idf/examples/peripherals/spi_master/lcd
+esp-idf/examples/peripherals/spi_master/lcd
